@@ -50,7 +50,7 @@ console.log(findLongestWord(words));
     var sum = 0;
     
   arrayOfNumbers.forEach(function(oneParticularNumber){
-    sum += oneParticuloarNumber;
+    sum += oneParticularNumber;
   });
     return sum;
   }
